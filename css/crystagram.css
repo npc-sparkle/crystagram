@@ -1,8 +1,40 @@
-h1 {
-	font-size: 30px;
+header {
+	padding: 20px;
+}
+
+header h1 {
+	font-size: 50px;
+	margin: 
+	float: ;
+}
+
+header h2 {
+	font-size: 20px;
+}
+
+hr {
+	height: 1px;
+	background-color: #DBDBDB;
+}
+
+main {
+	background-color: #FAFAFA
+	padding: 30px 20px 30px 20px;
+	margin: 
+}
+
+
+.profilbild {
+	width: 150px;
+	border-radius: 150px;
+}
+
+.bio {
+	float: right;
 }
 
 .bild {
 	width: 300px;
 	height: 300px;
 }
+
